@@ -20,7 +20,7 @@ const LoginForm = () => {
                     <Form.Control type="password" placeholder="Password" />
                 </FloatingLabel>
 
-                <Form.Check type="checkbox" label="Check me out" />
+                <Form.Check type="checkbox" label="Remember me" />
             </Form.Group>
             <div className="d-grid mx-auto">
                 <Button>Sign in</Button>
