@@ -4,7 +4,7 @@ import { Form, FloatingLabel, Button } from "react-bootstrap";
 const LoginForm = () => {
     return (
         <>
-            <Form.Group className="mb-3" controlId="formLoginAuthentication">
+            <Form.Group className="mb-3">
                 <FloatingLabel
                     controlId="floatingInput"
                     label="Email Address"
