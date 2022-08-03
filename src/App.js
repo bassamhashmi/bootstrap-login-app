@@ -48,7 +48,7 @@ function App() {
 
                         <LoginForm />
 
-                        <p class="mt-5 mb-3 text-muted text-center">
+                        <p className="mt-5 mb-3 text-muted text-center">
                             © 2017-2022
                         </p>
                     </div>
